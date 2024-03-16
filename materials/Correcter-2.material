@@ -1,0 +1,27 @@
+{
+  "modelName": "retouchingMaterial",
+  "name": "Correcter",
+  "identifier": "retouchingMaterial:414348-39050c8d-a4f3-4a3b-9a51-45c76d7acb20",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "cullMode": "back",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "fullFrameSmoothing": true,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "readDepth": true,
+  "smoothingFactor": 0.3181818181818182,
+  "transparency": 1,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
